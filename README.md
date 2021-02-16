@@ -1,6 +1,5 @@
-# Titanic-Prediction
+# Titanic-MachineLearningComparisons
 by : Fachri Ardiansyah
-Predicting whether a passenger will survive or not
 
 Dataset: titanic_train.csv 
 
@@ -26,4 +25,4 @@ Source : [kaggle](https://www.kaggle.com/c/titanic/data)
 PROJECT GOALS
 ---
 
-The goal of the project is to predict whether a passenger will survive or not based on its characteristics using machine learning
+Predicting whether a passenger will survive or not and then comparing Machine Learning Models and deciding which to use
