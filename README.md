@@ -1,4 +1,4 @@
-# Titanic-MachineLearningComparisons
+# Titanic Machine Learning Comparisons
 by : Fachri Ardiansyah
 
 Dataset: titanic_train.csv 
@@ -22,7 +22,7 @@ Source : [kaggle](https://www.kaggle.com/c/titanic/data)
 
 
 
-PROJECT GOALS
+PROJECT OBJECTIVE
 ---
 
 Predicting whether a passenger will survive or not and then comparing Machine Learning Models and deciding which to use
